@@ -4,5 +4,6 @@
 # I love programming and anything Marvel and DC. I'm a computer Science major at NAU
 
 ## Milana Marshall
+# I am Milana, a Data Science major at NAU. My favorite color is green and I moved a lot growing up!
 
 ## Dayra Quinonez
