@@ -7,3 +7,4 @@
 # I am Milana, a Data Science major at NAU. My favorite color is green and I moved a lot growing up!
 
 ## Dayra Quinonez
+# I am majoring in Software Engineering and minoring in the Spanish language. I love listening to music.
